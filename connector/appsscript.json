@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/Sao_Paulo",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "dataStudio": {
+    "name": "ColmeiaDev",
+    "company": "Colmeia",
+    "companyUrl": "https://app.colmeia.me",
+    "description": "só tey tey tey",
+    "logoUrl": "https://pt.wikipedia.org/wiki/Boo-Boo_Bear#/media/File:Catatau_(Boo-BooBear).png",
+    "addonUrl": "http://drub.in",
+    "supportUrl": "http://cv.drub.in"
+  }
+}
